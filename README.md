@@ -48,6 +48,6 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-DownGit-black?style=flat-square&logo=git)
 
 <!-- [Github Stats] -->
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=TBOsec&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TBOsec&hide=html&hide_title=true&layout=compact&langs_count=7&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=TBOsec&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TBOsec&hide=html&hide_title=true&layout=compact&langs_count=7&theme=vue-dark" />
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TBOsec.issus.1)
