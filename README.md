@@ -51,3 +51,6 @@ Here are some ideas to get you started:
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=TBOsec&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TBOsec&hide=html&hide_title=true&layout=compact&langs_count=7&theme=vue-dark" />
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TBOsec.issus.1)
+
+[![Blog](https://github-readme-stats.vercel.app/api/pin/?username=TBOsec&repo=Blog)](https://github.com/TBOsec/Blog)
+[![DownGit](https://github-readme-stats.vercel.app/api/pin/?username=TBOsec&repo=DownGit)](https://github.com/TBOsec/DownGit)
