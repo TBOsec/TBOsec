@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TBOsec.issus.1)
 
-[![Blog](https://github-readme-stats.vercel.app/api/pin/?username=TBOsec&repo=Blog&theme=vue-dark)](https://github.com/TBOsec/Blog)
+<!--[![Blog](https://github-readme-stats.vercel.app/api/pin/?username=TBOsec&repo=Blog&theme=vue-dark)](https://github.com/TBOsec/Blog)
 [![DownGit](https://github-readme-stats.vercel.app/api/pin/?username=TBOsec&repo=DownGit&theme=vue-dark)](https://github.com/TBOsec/DownGit)
 [![DAY_CVEinfo](https://github-readme-stats.vercel.app/api/pin/?username=TBOsec&repo=Day_CVEinfo&theme=vue-dark)](https://github.com/TBOsec/DAY_CVEinfo)
-[![Cyberchef](https://github-readme-stats.vercel.app/api/pin/?username=TBOsec&repo=cyberchef&theme=vue-dark)](https://github.com/TBOsec/cyberchef)
+[![Cyberchef](https://github-readme-stats.vercel.app/api/pin/?username=TBOsec&repo=cyberchef&theme=vue-dark)](https://github.com/TBOsec/cyberchef)-->
 
